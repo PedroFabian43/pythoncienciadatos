@@ -14,6 +14,5 @@ plt.title("Gráfico de dispersion")
 plt.xlabel("Equipos")
 plt.ylabel("Presupuesto")
 #Podemos gurdar los gráficos en imágenes
-
 plt.savefig('images/dispersion.png')
 plt.show()

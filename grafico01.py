@@ -14,5 +14,6 @@ plt.title("Gráfico de barras")
 plt.xlabel("Equipos")
 plt.ylabel("Presupuesto")
 #Podemos gurdar los gráficos en imágenes
+
 plt.savefig('images/barras.png')
 plt.show()
