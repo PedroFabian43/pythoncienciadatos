@@ -8,7 +8,7 @@ x = ["Atletico de Madrid", "Real Madrid", "Barcelona", "Betis"]
 y = [30, 400, 66, 20]
 
 #Libreria mediante libreria(alias).bar
-plt.plot(x, y, marker='o')
+plt.plot(x, y, marker='*')
 #PErsonalizamos el gráfico 
 plt.title("Gráfico lineal")
 plt.xlabel("Equipos")
